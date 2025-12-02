@@ -42,8 +42,6 @@ Saat ini saya fokus mendalami **Express.js** dan **PostgreSQL**, serta terus bel
 ---
 
 ### 💬 Motto
-> “Belajar setiap hari, walau sedikit, asal konsisten.”
+> “make code be ur hobby not as work”
 
 ---
-
-🌟 *Terima kasih sudah mampir ke profil saya!*
