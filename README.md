@@ -32,14 +32,6 @@ Saat ini saya fokus mendalami **Express.js** dan **PostgreSQL**, serta terus bel
 
 ---
 
-### ⚡ GitHub Stats
-![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanski&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanski&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=php)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irfanski&theme=tokyonight&hide_border=true)
-
----
 
 ### 💬 Motto
 > “make code be ur hobby not as work”
