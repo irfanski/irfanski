@@ -1,12 +1,12 @@
 # 👋 Halo, saya Irfan!
 
-💻 **Fullstack Developer in Progress**  
-Saat ini saya fokus mendalami **Express.js** dan **PostgreSQL**, serta terus belajar membangun aplikasi dari backend hingga frontend.
+💻 **Fullstack Developer**  
+Saat ini saya fokus mendalami **Express.js** dan **PostgreSQL**, serta membangun aplikasi dari backend hingga frontend.
 
 ---
 
 ### 🚀 Tentang Saya
-- 🔭 Sedang belajar **fullstack development**
+- 🔭  **fullstack development**
 - 🌱 Fokus utama: **Express.js**, **PostgreSQL**, dan **API development**
 - 🧩 Tertarik dengan **automation**, **chatbot**, dan **system integration**
 - 🎯 Tujuan: Membangun aplikasi yang bermanfaat dan scalable
